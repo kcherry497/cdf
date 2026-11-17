@@ -1,4 +1,4 @@
-# CDF (ClaudeDocFormat) 📒
+# CDF (ClaudeDocFormat) ![CDF icon](docs/cdf-icon.svg)
 
 **Change logs and runbooks as plain JSON.**
 
