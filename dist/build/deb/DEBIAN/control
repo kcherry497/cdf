@@ -1,0 +1,16 @@
+Package: cdf
+Version: 1.0.1
+Section: utils
+Priority: optional
+Architecture: amd64
+Depends: libc6 (>= 2.35), libgl1, libx11-6, libxi6, libxcursor1, libxinerama1, libxrandr2, libxxf86vm1
+Recommends: zenity, shared-mime-info, desktop-file-utils
+Installed-Size: 129020
+Maintainer: Kevin Cherry <17479255+kcherry497@users.noreply.github.com>
+Description: ClaudeDocFormat (.cdf) viewer and editor
+ CDF is a portable document format for operational notes, change logs,
+ runbooks, and tabular content. A .cdf file is pretty-printed JSON with
+ a defined schema; this package ships both the GUI editor (cdf-gui) and
+ a terminal viewer/editor (cdf).
+ .
+ File → Open uses the native GTK dialog via zenity when available.

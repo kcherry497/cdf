@@ -1,0 +1,7 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: CDF (ClaudeDocFormat)
+Source: https://github.com/kcherry497/cdf
+
+Files: *
+Copyright: 2026 Kevin Cherry
+License: MIT

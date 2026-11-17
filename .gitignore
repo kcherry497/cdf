@@ -1,0 +1,7 @@
+# Build outputs (rebuild from source with dist/build.sh)
+dist/out/
+dist/build/*.exe
+dist/build/deb/usr/bin/
+GUI/cdf-gui
+GUI/cdf-gui.real
+*.deb
