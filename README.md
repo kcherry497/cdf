@@ -1,4 +1,6 @@
-# CDF (ClaudeDocFormat)
+# CDF (ClaudeDocFormat) 📒
+
+**Change logs and runbooks as plain JSON.**
 
 CDF is a small document format for operational notes, change logs, runbooks and status reports: anything that is mostly dated rows in sections. A `.cdf` file is plain, pretty-printed JSON, so it diffs cleanly in git, works with `jq`, and never locks you into an app.
 
